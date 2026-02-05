@@ -8,7 +8,7 @@ Official implementation of:
 
 ## 🔥 News
 
-- [2026/02] Paper accepted to ICLR.
+- [2026/02] Paper accepted to ICLR :)
 - Code release is in progress.
 
 ---
